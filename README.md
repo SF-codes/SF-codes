@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @SF-codes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Shanis!
+
+I'm a Frontend Developer on a quest to finding my next big job opportunity!
+with JavaScript, HTML/CSS, Node.js, MongoDB and a few others under my belt, I've enjoyed growing in my profession, and look forward to further learning. I enjoy helping out newer Dev's because I understand and remember the struggle of starting out as a self-taught dev and I hope to continue doing helping everyone for years to come.
+
+I'm currently learning React, while there are a lot I would like to learn, I feel like this will benefit both myself and my new employer!
+
+If you'd like to collaborate on anything, I'm open to help!
 
 <!---
 SF-codes/SF-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
