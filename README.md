@@ -1,7 +1,7 @@
 👋 Hi, I’m Shanis!
 
 I'm a Frontend Developer on a quest to finding my next big job opportunity!
-with JavaScript, HTML/CSS, Node.js, MongoDB and a few others under my belt, I've enjoyed growing in my profession, and look forward to further learning. I enjoy helping out newer Dev's because I understand and remember the struggle of starting out as a self-taught dev and I hope to continue doing helping everyone for years to come.
+with JavaScript, HTML/CSS, Node.js, MongoDB and a few others under my belt, I've been enjoying growing in my profession, and look forward to further learning. Even though I'm still a young dev, I enjoy helping out newer dev's because I understand and remember the struggle of starting out as self-taught!
 
 I'm currently learning React, while there are a lot I would like to learn, I feel like this will benefit both myself and my new employer!
 
