@@ -7,6 +7,8 @@ I'm currently learning React, while there are a lot I would like to learn, I fee
 
 If you'd like to collaborate on anything, I'm open to help!
 
+Visit my portfolio! ---> www.shanisf.com
+
 <!---
 SF-codes/SF-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
