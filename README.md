@@ -5,6 +5,9 @@ with JavaScript, HTML/CSS, Node.js, MongoDB and a few others under my belt, I've
 
 I'm currently learning React, while there are a lot I would like to learn, I feel like this will benefit both myself and my new employer!
 
+I love working on projects that make an impact, or projects that bring happiness, passion, or nostalgia!
+I'm always thinking about clean manageable code for the future of developers and the ever changing tech standards.
+
 If you'd like to collaborate on anything, I'm open to help!
 
 Visit my portfolio! ---> www.shanisf.com
