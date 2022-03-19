@@ -11,6 +11,7 @@ I'm always thinking about clean manageable code for the future of developers and
 If you'd like to collaborate on anything, I'm open to help!
 
 Visit my portfolio! ---> www.shanisf.com
+or connect with me on LinkedIn! ---> https://www.linkedin.com/in/shanis-felicissimo-968462211/
 
 <!---
 SF-codes/SF-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
